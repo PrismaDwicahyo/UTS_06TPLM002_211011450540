@@ -26,7 +26,7 @@ class WeatherScreen extends StatelessWidget {
     return Container(
       decoration: const BoxDecoration(
         image: DecorationImage(
-          image: AssetImage('images/forest.jpg'), // Gambar latar belakang
+          image: AssetImage('images/forest.jpg'), 
           fit: BoxFit.cover,
         ),
       ),
